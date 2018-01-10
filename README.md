@@ -1,5 +1,7 @@
 # Rust Replicate
 
+[![Join the chat at https://gitter.im/rust-rep/Lobby](https://badges.gitter.im/rust-rep/Lobby.svg)](https://gitter.im/rust-rep/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/NathanFrasier/rust-rep.svg?branch=master)](https://travis-ci.org/NathanFrasier/rust-rep)
 
 Rust Replicate is a toy implementation of a Peer-to-peer style file sharing system. It uses Rust to implement largely incorrect and inefficient LT codes to be used for file replication.
